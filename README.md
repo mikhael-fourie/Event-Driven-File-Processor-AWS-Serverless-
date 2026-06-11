@@ -1,5 +1,5 @@
 
-S3 Event-Driven File Processor
+## S3 Event-Driven File Processor
 
 A serverless, event-driven automation workflow built on AWS. Automatically 
 reacts to file uploads in S3 — sending an email notification with file 
